@@ -30,8 +30,7 @@ def download_gfs(links):
 
 
 if __name__ == "__main__":
-    main_dir = os.environ['PYTHONPATH']
-    output_dir = 'D:/Doutorado/GFS'
+    output_dir = 'source_to/GFS'
     os.chdir(output_dir)
-    links = f'{main_dir}/src/gfs_download_urls.txt'
+    links = f'source_to/gfs_download_urls.txt'
     download_gfs(links)

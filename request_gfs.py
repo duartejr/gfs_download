@@ -10,9 +10,9 @@ import time
 import os
 
 src = "https://www.ncei.noaa.gov/has/HAS.FileAppRouter?datasetname=GFSGRB24&subqueryby=STATION&applname=&outdest=FILE"
-geckodriver = 'D:\\Doutorado\\OneDrive - Universidade Federal do Ceará\\projeto_doutorado\\projeto\\src\\geckodriver\\geckodriver.exe'
+geckodriver = 'source_to\\geckodriver.exe'
 year = 2011
-my_email = 'duarte.jr105@gmail.com'
+my_email = 'your_email_here@email.com'
 
 c = calendar.Calendar(firstweekday=calendar.SUNDAY)
 driver = webdriver.Firefox(executable_path=geckodriver)

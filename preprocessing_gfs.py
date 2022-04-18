@@ -1,6 +1,6 @@
 #%%
 import sys
-sys.path.append('D:\\pyutils')
+sys.path.append('D:\\pyutils') # also avalilable in my perfil
 import os
 from netCDF4 import Dataset
 from glob import glob
