@@ -1,9 +1,5 @@
 # Download Dados do GFS
 
-<p align="center">
-<img src="https://img.shields.io/github/stars/duartejr/gfs_download.git?style=social"/>
-</p>
-
 ## Índice 
 
 * [Descrição do Projeto](#descrição-do-projeto)
@@ -33,3 +29,7 @@ Este projeto contêm scripts para download dos dados climáticos do GFS.
 * netCDF4
 * pygrib
 
+<p align="center">
+<img src="https://img.shields.io/github/stars/duartejr/gfs_download?style=social"/>
+<img src="https://img.shields.io/github/forks/duartejr/gfs_download?style=social"/>
+</p>
